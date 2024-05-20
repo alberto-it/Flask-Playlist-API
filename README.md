@@ -1,6 +1,6 @@
 # Mini-Project: Playlist Management API
 
-## This project implements a dynamic playlist management system using Flask. Users can create, manage, and explore playlists with functionalities like adding/removing songs, searching playlists, and basic CRUD operations.
+This project implements a dynamic playlist management system using Flask. Users can create, manage, and explore playlists with functionalities like adding/removing songs, searching playlists, and basic CRUD operations.
 
 
 ### Getting Started

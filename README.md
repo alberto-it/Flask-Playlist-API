@@ -5,9 +5,9 @@ This project implements a dynamic playlist management system using Flask. Users 
 
 ### Getting Started
 
-This API utilizes Python library Flask.
+This API utilizes the Python library Flask.
 
-This will run the API on http://127.0.0.1:5000/ by default
+This will run the API on http://127.0.0.1:5000 by default
 
 
 ### API Endpoints
